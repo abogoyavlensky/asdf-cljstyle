@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-cljstyle [![Build](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/build.yml/badge.svg)](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/build.yml) [![Lint](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/lint.yml/badge.svg)](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/lint.yml)
+# asdf-cljstyle [![Build](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/build.yaml/badge.svg)](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/build.yaml) [![Lint](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/lint.yaml/badge.svg)](https://github.com/abogoyavlensky/asdf-cljstyle/actions/workflows/lint.yaml)
 
 [cljstyle](https://github.com/greglook/cljstyle) plugin for the [asdf version manager](https://asdf-vm.com).
 
